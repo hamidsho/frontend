@@ -1,5 +1,7 @@
 # frontend
 
+Ini merupakan Frontend untuk menampilkan article dari API Articles
+
 ## Project setup
 ```
 npm install
